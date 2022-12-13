@@ -39,3 +39,10 @@ C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\
 C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.pdb
 C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.genruntimeconfig.cache
 C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ref\ApiCatalogo.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\T2m\Documents\Curso CSharp\S5\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
