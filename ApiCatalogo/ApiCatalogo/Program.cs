@@ -1,4 +1,5 @@
 using ApiCatalogo.ApiEndpoints;
+using ApiCatalogo.AppServicesExtensions;
 using ApiCatalogo.Context;
 using ApiCatalogo.Models;
 using ApiCatalogo.Services;
@@ -82,10 +83,11 @@ internal class Program
         app.MapProdutosEndpoints();
 
         // Configure the HTTP request pipeline.
-        if (app.Environment.IsDevelopment()) {
-            app.UseSwagger();
-            app.UseSwaggerUI();
-        }
+
+        var environment = app.Environment;
+        app.UseExceptionHandling(environment)
+            .UseSwaggerMiddleware()
+            .UseAppCors();
 
         app.UseAuthentication();
         app.UseAuthorization();
